@@ -7,7 +7,7 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Onde me encontrar / Where to find me
 
 <p align="left">
   <a href="https://linkedin.com/in/flávio-jorge-js2806">
@@ -21,6 +21,18 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
   </a>
   <a href="https://wa.me/5521984369450">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/fjsjorge/">
+    <img src="https://img.shields.io/badge/GitHub-fjsjorge-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/flaviojs2019">
+    <img src="https://img.shields.io/badge/Instagram-@flaviojs2019-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@mundodascompras.oficial">
+    <img src="https://img.shields.io/badge/TikTok-@mundodascompras.oficial-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.youtube.com/@TheBookofLife-s3m">
+    <img src="https://img.shields.io/badge/YouTube-TheBookOfLife-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -101,4 +113,3 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 
 ⭐ Se você gosta do meu trabalho, considere dar uma estrela em algum repositório!  
 🤝 Sempre aberto a colaborações e parcerias.
-
