@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Flávio Jorge
 
-🚀 **Desenvolvedor Web & No-Code | Especialista em Marketing Digital & Google Ads**  
-📍 Duque de Caxias, RJ, Brasil
+🚀 **Inteligência Artificial | machine Learning | desenvolvimento Web & No-Code | Especialista em Marketing Digital & Google Ads**  
+📍  RJ, Brasil
 
 Sou um profissional multidisciplinar com sólida experiência em **desenvolvimento web**, plataformas **no-code/low-code**, **marketing digital** e gestão de campanhas no **Google Ads**. Busco aplicar minha expertise técnica e criativa para gerar resultados mensuráveis, atuando em projetos desafiadores que integrem tecnologia, inovação e estratégia digital. Comprometido com aprendizado contínuo, colaboração e entrega de valor.
 
