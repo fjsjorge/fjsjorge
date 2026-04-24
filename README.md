@@ -62,9 +62,7 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" /> <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" title="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure" /> <img src="https://cdn.simpleicons.org/googleads/4285F4" width="40" height="40" title="Google Ads" />
 </p>
-
 ---
-
 ## 💼 Experiência Profissional
 
 - **Desenvolvedor Web, No-Code & Especialista em Marketing Digital**  
@@ -73,31 +71,6 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
   - Criação, gestão e otimização de campanhas no Google Ads, com foco em aumento de tráfego qualificado e retorno sobre investimento (ROI).
   - Gestão de redes sociais e desenvolvimento de estratégias de conteúdo.
   - Prototipagem e desenvolvimento de aplicativos móveis integrando conceitos de UI/UX e Cloud Computing.
-
-- **Técnico em Tecnologia & Especialista em Suporte ao Cliente**  
-  *Tecno Mix Total | Duque de Caxias, RJ | 2015 – Presente*
-  - Assistência técnica especializada em hardware e software de smartphones.
-  - Atendimento consultivo ao cliente e gestão operacional da loja, incluindo controle de estoque e relacionamento com fornecedores.
-
-- **Secretaria e Administração de Suprimentos**  
-  *Ministério da Defesa – Exército Brasileiro | 2004 – 2012*
-  - Atuação em secretaria e administração de suprimentos, desenvolvendo disciplina, organização e liderança em ambiente de alta demanda.
-  - **Missão de Paz – ONU (Haiti):** Participação como Soldado de Paz no 3º Contingente da MINUSTAH (junho a novembro de 2005), adquirindo experiência internacional e adaptabilidade cultural.
-
----
-
-## 🎓 Formação & Certificações
-
-- **Graduação:** Inteligência Artificial e Machine Learning – Uniasselvi (Cursando)
-- **Cursos de Tecnologia e Marketing:** 
-  - Marketing Digital e Mídias Sociais – Click Max (2023/2024)
-  - Desenvolvimento Web com WordPress/React – Hostinger (2023/2024)
-  - UI/UX Design para Aplicativos – Udemy (2023/2024)
-  - Cloud Computing, Python Básico e Segurança Digital – FGV (2022/2023)
-- **Outros:** Perito Grafotécnico, Tecnologia e Inovação para Audiovisual (Sebrae), Rotinas Administrativas.
-- **Idiomas:** Inglês (Básico - Leitura técnica)
-
----
 
 ## 📊 GitHub Stats
 
