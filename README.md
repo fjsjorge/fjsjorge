@@ -55,7 +55,7 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,py,android,apple,wordpress,gcp,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,py,android,apple,wordpress,gcp,aws,azure&theme=light" />
   </a>
 </p>
 ---
