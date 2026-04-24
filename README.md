@@ -10,7 +10,7 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 ## 🌐 Onde me encontrar / Where to find me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/fl%C3%A1vio-jorge-729a82272/">
+  <a href="https://linkedin.com/in/flávio-jorge-js2806">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fjsflavio2@gmail.com">
@@ -40,31 +40,38 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 
 ## 🧠 Habilidades Técnicas
 
-- 💻 **Desenvolvimento Web & No-Code:** Criação de sites responsivos (WordPress, Webflow, Bubble); conhecimentos em HTML/CSS básico e React (iniciante).
-- 📈 **Google Ads & Marketing Digital:** Gestão e otimização de campanhas (Search, Display, YouTube); análise de métricas, ROI, funis de conversão; gestão de mídias sociais e criação de conteúdo.
-- ☁️ **Cloud Computing:** Noções de infraestrutura, armazenamento e deploy em Google Cloud, AWS e Azure.
-- ⚙️ **Suporte Técnico:** Assistência em hardware e software de smartphones e sistemas operacionais.
-- 🐍 **Automação & Programação:** Scripts básicos em Python para automação.
-- 🏢 **Administração & Ferramentas:** Pacote Office, rotinas administrativas, gestão de suprimentos e atendimento ao cliente.
-- 🤝 **Competências Pessoais:** Liderança, resiliência, trabalho sob pressão, resolução de problemas e proatividade.
+- 💻 **Desenvolvimento Web & No-Code:** Criação de sites responsivos (WordPress, Webflow, Bubble), HTML/CSS básico e React (iniciante).
+- 🏗️ **SaaS & Arquitetura:** High-scale systems, clean architecture & system design (🧩), otimização de performance (⚡).
+- 🔐 **Backend & Integrações:** Secure APIs & authentication, pagamentos, assinaturas e business logic (💳).
+- 🤖 **Automation & Integrations:** Scripts em Python para automação de tarefas e processos.
+- 📈 **Marketing Digital & Analytics:** Gestão de campanhas (Google Ads), análise de métricas, criação de dashboards (📊), ROI e funis de conversão.
+- ☁️ **Cloud Computing:** Noções de infraestrutura, armazenamento e deploy (Google Cloud, AWS e Azure).
+- ⚙️ **Suporte Técnico:** Assistência em hardware e software de smartphones.
+- 🤝 **Soft Skills & Administração:** Liderança, resolução de problemas, resiliência, trabalho sob pressão e rotinas administrativas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens & Tecnologias
 
 ### Desenvolvimento & No-Code
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40" title="Android (AArch64)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40" title="iOS (AArch64)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" />
+  <img src="https://cdn.simpleicons.org/webflow/4353FF" width="40" height="40" title="Webflow" />
+</p>
 
 ### Marketing & Cloud
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure" />
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="40" height="40" title="Google Ads" />
+</p>
 
 ---
 
