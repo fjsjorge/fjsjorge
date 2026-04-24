@@ -10,7 +10,7 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 ## 🌐 Onde me encontrar / Where to find me
 
 <p align="left">
-  <a href="https://linkedin.com/in/flávio-jorge-js2806">
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-jorge-729a82272/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fjsflavio2@gmail.com">
