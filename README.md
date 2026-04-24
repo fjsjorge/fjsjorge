@@ -63,15 +63,6 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" /> <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" title="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure" /> <img src="https://cdn.simpleicons.org/googleads/4285F4" width="40" height="40" title="Google Ads" />
 </p>
 ---
-## 💼 Experiência Profissional
-
-- **Desenvolvedor Web, No-Code & Especialista em Marketing Digital**  
-  *Projetos Pessoais & Freelance | Remoto | 2026 – Presente*
-  - Desenvolvimento e manutenção de sites para pequenos negócios utilizando plataformas no-code (WordPress, Webflow, Bubble), focando em design responsivo, UX e performance.
-  - Criação, gestão e otimização de campanhas no Google Ads, com foco em aumento de tráfego qualificado e retorno sobre investimento (ROI).
-  - Gestão de redes sociais e desenvolvimento de estratégias de conteúdo.
-  - Prototipagem e desenvolvimento de aplicativos móveis integrando conceitos de UI/UX e Cloud Computing.
-
 ## 📊 GitHub Stats
 
 <p align="left">
