@@ -55,22 +55,12 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 
 ### Desenvolvimento & No-Code
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40" title="Android (AArch64)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40" title="iOS (AArch64)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" />
-  <img src="https://cdn.simpleicons.org/webflow/4353FF" width="40" height="40" title="Webflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" title="Android" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40" height="40" title="iOS / Apple" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" /> <img src="https://cdn.simpleicons.org/webflow/4353FF" width="40" height="40" title="Webflow" />
 </p>
 
 ### Marketing & Cloud
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure" />
-  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="40" height="40" title="Google Ads" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" /> <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" title="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure" /> <img src="https://cdn.simpleicons.org/googleads/4285F4" width="40" height="40" title="Google Ads" />
 </p>
 
 ---
