@@ -53,20 +53,11 @@ Sou um profissional multidisciplinar com sólida experiência em **desenvolvimen
 
 ## 🛠️ Linguagens & Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" title="Android" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40" height="40" title="iOS / Apple" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress" />&nbsp;
-  <img src="https://cdn.simpleicons.org/webflow/4353FF" width="40" height="40" title="Webflow" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud" />&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40" title="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" title="Azure" />&nbsp;
-  <img src="https://cdn.simpleicons.org/googleads/4285F4" width="40" height="40" title="Google Ads" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,py,android,apple,wordpress,gcp,aws,azure" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
